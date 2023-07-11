@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School ending by a new line">\\\*\\\\"'\"Best School\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
+echo "Best School ending by a new line">\\\*\\\\"'\"Best School\"\\"'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
